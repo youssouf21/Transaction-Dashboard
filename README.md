@@ -1,2 +1,2 @@
 # Transaction-Dashboard
-Streamli Transaction Dashboard
+Streamlit Transaction Dashboard
