@@ -1,0 +1,5 @@
+TransactionType,TransactionTypeID
+BUY,1
+SELL,2
+DIVIDENT,3
+,4

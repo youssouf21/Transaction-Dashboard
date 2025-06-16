@@ -1,0 +1,43 @@
+Country,Alpha2,Region,SubRegion,GeographyID
+Australia,AU,Oceania,Australia and New Zealand,1
+Bahamas,BS,Americas,Latin America and the Caribbean,2
+Bermuda,BM,Americas,Northern America,3
+Brazil,BR,Americas,Latin America and the Caribbean,4
+Virgin Islands (British),VG,Americas,Latin America and the Caribbean,5
+Canada,CA,Americas,Northern America,6
+Cayman Islands,KY,Americas,Latin America and the Caribbean,7
+Chile,CL,Americas,Latin America and the Caribbean,8
+China,CN,Asia,Eastern Asia,9
+Colombia,CO,Americas,Latin America and the Caribbean,10
+Costa Rica,CR,Americas,Latin America and the Caribbean,11
+Cyprus,CY,Asia,Western Asia,12
+Denmark,DK,Europe,Northern Europe,13
+Egypt,EG,Africa,Northern Africa,14
+Finland,FI,Europe,Northern Europe,15
+France,FR,Europe,Western Europe,16
+Germany,DE,Europe,Western Europe,17
+Greece,GR,Europe,Southern Europe,18
+Hong Kong,HK,Asia,Eastern Asia,19
+India,IN,Asia,Southern Asia,20
+Ireland,IE,Europe,Northern Europe,21
+Israel,IL,Asia,Western Asia,22
+Italy,IT,Europe,Southern Europe,23
+Jersey,JE,Europe,Northern Europe,24
+Kazakhstan,KZ,Asia,Central Asia,25
+Luxembourg,LU,Europe,Western Europe,26
+Mexico,MX,Americas,Latin America and the Caribbean,27
+Monaco,MC,Europe,Western Europe,28
+"Netherlands, Kingdom of the",NL,Europe,Western Europe,29
+Norway,NO,Europe,Northern Europe,30
+Panama,PA,Americas,Latin America and the Caribbean,31
+Peru,PE,Americas,Latin America and the Caribbean,32
+Singapore,SG,Asia,South-eastern Asia,33
+"Korea, Republic of",KR,Asia,Eastern Asia,34
+Spain,ES,Europe,Southern Europe,35
+Sweden,SE,Europe,Northern Europe,36
+Switzerland,CH,Europe,Western Europe,37
+Taiwan,,,,38
+Thailand,TH,Asia,South-eastern Asia,39
+Turkey,,,,40
+United Kingdom of Great Britain and Northern Ireland,GB,Europe,Northern Europe,41
+United States of America,US,Americas,Northern America,42
